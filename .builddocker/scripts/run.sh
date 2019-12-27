@@ -1,1 +1,1 @@
-docker run -d -p 5000:8080 hiking-thru-life
+docker run -d -p 5000:80 hiking-thru-life
